@@ -1,0 +1,16 @@
+{
+  "status": 0,
+  "result": {
+    "createdById": "0056g000004fwQoAAI",
+    "createdByName": "Breanna J",
+    "createdDate": "2020-03-18T10:50:14.000Z",
+    "fileName": "triggers/p0cTrigger.trigger",
+    "fullName": "p0cTrigger",
+    "id": "01q6g000001TKuUAAW",
+    "lastModifiedById": "0056g000004fwQoAAI",
+    "lastModifiedByName": "Breanna J",
+    "lastModifiedDate": "2020-03-18T11:03:58.000Z",
+    "manageableState": "unmanaged",
+    "type": "ApexTrigger"
+  }
+}

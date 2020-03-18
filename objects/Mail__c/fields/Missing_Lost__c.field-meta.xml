@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Missing_Lost__c</fullName>
+    <defaultValue>false</defaultValue>
+    <description>Is package missing or lost</description>
+    <externalId>false</externalId>
+    <inlineHelpText>Is package missing or lost?</inlineHelpText>
+    <label>Missing/Lost</label>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Checkbox</type>
+</CustomField>

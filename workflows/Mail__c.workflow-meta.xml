@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workflow xmlns="http://soap.sforce.com/2006/04/metadata">
+    <alerts>
+        <fullName>Payout_approved_email</fullName>
+        <description>Payout approved email</description>
+        <protected>false</protected>
+        <recipients>
+            <recipient>bsjames45@resourceful-wolf-ijwx3z.com</recipient>
+            <type>user</type>
+        </recipients>
+        <senderType>CurrentUser</senderType>
+        <template>unfiled$public/SupportEscalatedCaseReassignment</template>
+    </alerts>
+    <alerts>
+        <fullName>Reject_Approval_Email</fullName>
+        <description>Reject Approval Email</description>
+        <protected>false</protected>
+        <recipients>
+            <recipient>bsjames45@resourceful-wolf-ijwx3z.com</recipient>
+            <type>user</type>
+        </recipients>
+        <senderType>CurrentUser</senderType>
+        <template>unfiled$public/SupportCaseResponse</template>
+    </alerts>
+</Workflow>

@@ -1,0 +1,31 @@
+{
+  "status": 0,
+  "result": [
+    {
+      "createdById": "0056g000004fwQoAAI",
+      "createdByName": "Breanna J",
+      "createdDate": "1970-01-01T00:00:00.000Z",
+      "fileName": "workflows/Account.workflow",
+      "fullName": "Account",
+      "id": "",
+      "lastModifiedById": "0056g000004fwQoAAI",
+      "lastModifiedByName": "Breanna J",
+      "lastModifiedDate": "1970-01-01T00:00:00.000Z",
+      "namespacePrefix": "",
+      "type": "Workflow"
+    },
+    {
+      "createdById": "0056g000004fwQoAAI",
+      "createdByName": "Breanna J",
+      "createdDate": "2020-02-24T00:22:45.000Z",
+      "fileName": "Workflow/Mail__c.workflow",
+      "fullName": "Mail__c",
+      "id": "01I6g000002h0eDEAQ",
+      "lastModifiedById": "0056g000004fwQoAAI",
+      "lastModifiedByName": "Breanna J",
+      "lastModifiedDate": "2020-03-17T22:30:07.000Z",
+      "manageableState": "unmanaged",
+      "type": "Workflow"
+    }
+  ]
+}

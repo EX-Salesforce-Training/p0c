@@ -1,0 +1,15 @@
+{
+  "status": 0,
+  "result": {
+    "createdById": "0056g000004fwQoAAI",
+    "createdByName": "Breanna J",
+    "createdDate": "2020-03-18T01:32:25.000Z",
+    "fileName": "approvalProcesses/Mail__c.Insurance_Approval_Process.approvalProcess",
+    "fullName": "Mail__c.Insurance_Approval_Process",
+    "id": "04a6g0000007gU7AAI",
+    "lastModifiedById": "0056g000004fwQoAAI",
+    "lastModifiedByName": "Breanna J",
+    "lastModifiedDate": "2020-03-18T02:12:09.000Z",
+    "type": "ApprovalProcess"
+  }
+}
